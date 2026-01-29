@@ -1,7 +1,7 @@
 # 🐉 FScan - Advanced Sensitive File Hunter
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-3.2-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.o-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Author-anmxploit-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
@@ -69,4 +69,4 @@ Created by anmxploit
 
     🐉 Motto: "See Everything, Miss Nothing"
 
-<p align="center"> Copyright © 2024 anmxploit - FScan v3.2 </p>
+ Copyright © 2024 anmxploit - FScan v1.0
