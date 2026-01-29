@@ -28,7 +28,7 @@
 
 1. **Clone Repository**
 ```bash
-git clone [https://github.com/anmxploit/fscan.git](https://github.com/anmxploit/fscan.git)
+git clone https://github.com/choirulanam-cybersec/FScan-v3.2-.git
 cd fscan
 
 2.Install Requirements
@@ -65,23 +65,8 @@ fscan/
 
 Created by anmxploit
 
-    💻 GitHub: anmxploit
+    💻 GitHub: choirul-anam-cybersec
 
     🐉 Motto: "See Everything, Miss Nothing"
 
 <p align="center"> Copyright © 2024 anmxploit - FScan v3.2 </p>
-
-
------
-
-### 💡 Tips Biar GitHub Lu Makin Keren:
-
-1.  **GitHub Profile:** Jangan lupa isi profil GitHub lu biar kelihatan legit.
-2.  **Requirements:** Pastikan file `requirements.txt` lu isinya sudah benar:
-    ```text
-    requests
-    colorama
-    ```
-3.  **Pesan Terakhir:** Pas lu `git commit`, pake pesan yang keren juga: `git commit -m "Release FScan v3.2 Professional Edition"`.
-
-Ada lagi yang bisa gue bantu, Boss? Mau gue bikinin script **Auto-Installer** biar user tinggal klik dua kali langsung jalan semua? 🛡️🔥⚡
