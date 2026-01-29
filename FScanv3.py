@@ -38,7 +38,7 @@ def print_banner():
 {Fore.RED}              __        _
 {Fore.RED}            _/  \\    _ ( \\
 {Fore.RED}           / \\   \\  / \\ \\ \\
-{Fore.RED}          /   )   \\/   ) \\ \\    {Fore.YELLOW}F S C A N {Fore.CYAN}v3.2 (BETA)
+{Fore.RED}          /   )   \\/   ) \\ \\    {Fore.YELLOW}F S C A N {Fore.CYAN}v1.0 (BETA)
 {Fore.RED}         /   /     \\  /   ) )   {Fore.WHITE}The Sensitive File Hunter
 {Fore.RED}      _  \\  /      |  \\  / /
 {Fore.RED}     ( \\  \\/       |   \\/ /
