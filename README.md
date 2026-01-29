@@ -29,7 +29,7 @@
 1. **Clone Repository**
 ```bash
 https://github.com/choirulanam-cybersec/FScan-v1.0.git
-cd 
+cd FScan-v1.0
 
 2.Install Requirements
 
